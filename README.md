@@ -27,7 +27,7 @@
 <br />
 <br /> 
   
-[![EmmanuelEngelbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelEngelbert&show_icons=true&theme=transparent)](https://github.com/EmmanuelEngelbert/github-readme-stats)
+<!--[![EmmanuelEngelbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelEngelbert&show_icons=true&theme=transparent)](https://github.com/EmmanuelEngelbert/github-readme-stats)-->
 
 [linkedin]: https://www.linkedin.com/in/emmanuelengelbert/
 [twitter]: https://twitter.com/EmmEngelbert
