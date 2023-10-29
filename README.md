@@ -5,7 +5,7 @@
 
 📔 Bachelor of Science, Mathematics
 
-🔭 I’m currently working on becoming a Java Software Developer
+🔭 I’m currently working on becoming a Data Analyst
 
 🌱 I’m currently learning more about open source development and ways in which I can contribute
 <p>
