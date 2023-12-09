@@ -21,7 +21,7 @@
 <br />
 <br />-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelEngelbert&layout=compact)](https://github.com/EmmanuelEngelbert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelEngelbert&layout=compact)](https://github.com/EmmanuelEngelbert)
 <!--[![EmmanuelEngelbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelEngelbert&show_icons=true&theme=transparent)](https://github.com/EmmanuelEngelbert/github-readme-stats)-->
 
 
