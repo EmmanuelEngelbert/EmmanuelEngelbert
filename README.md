@@ -1,9 +1,6 @@
-# Hi there, Emmanuel here! 👋🏾
+# Hi there, Manny here! 👋🏾
 
 <p>
-🎓 Graduated @ University of Bristol 
-
-📔 Bachelor of Science, Mathematics
 
 🔭 I’m a self-motivated individual intent on progressing in the field of technology
 
